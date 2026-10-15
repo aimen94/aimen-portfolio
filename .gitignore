@@ -1,0 +1,27 @@
+# Dependencies and build output
+/node_modules/
+/.next/
+/out/
+/dist/
+/coverage/
+*.tsbuildinfo
+next-env.d.ts
+
+# Local environment and credentials
+.env*
+!.env.example
+*.pem
+*.key
+/.vercel/
+/.openai/
+/.sites-runtime/
+/.sites-checkout/
+
+# Local deployment records
+/docs/DEPLOYMENT.md
+
+# Logs and editor files
+*.log
+.DS_Store
+/.idea/
+/.vscode/

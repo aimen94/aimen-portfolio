@@ -1,0 +1,154 @@
+{
+  "results": [
+    {
+      "path": "/ar",
+      "width": 360,
+      "scrollWidth": 360,
+      "fonts": [
+        "Changa, \"Changa Fallback\", sans-serif"
+      ],
+      "headingSize": "28px"
+    },
+    {
+      "path": "/ar",
+      "width": 390,
+      "scrollWidth": 390,
+      "fonts": [
+        "Changa, \"Changa Fallback\", sans-serif"
+      ],
+      "headingSize": "29.25px"
+    },
+    {
+      "path": "/ar",
+      "width": 768,
+      "scrollWidth": 768,
+      "fonts": [
+        "Changa, \"Changa Fallback\", sans-serif"
+      ],
+      "headingSize": "32px"
+    },
+    {
+      "path": "/ar",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "fonts": [
+        "Changa, \"Changa Fallback\", sans-serif"
+      ],
+      "headingSize": "48px"
+    },
+    {
+      "path": "/ar/projects/salahly",
+      "width": 360,
+      "scrollWidth": 360,
+      "fonts": [
+        "Changa, \"Changa Fallback\", sans-serif"
+      ],
+      "headingSize": "32px"
+    },
+    {
+      "path": "/ar/projects/salahly",
+      "width": 390,
+      "scrollWidth": 390,
+      "fonts": [
+        "Changa, \"Changa Fallback\", sans-serif"
+      ],
+      "headingSize": "32px"
+    },
+    {
+      "path": "/ar/projects/salahly",
+      "width": 768,
+      "scrollWidth": 768,
+      "fonts": [
+        "Changa, \"Changa Fallback\", sans-serif"
+      ],
+      "headingSize": "32.256px"
+    },
+    {
+      "path": "/ar/projects/salahly",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "fonts": [
+        "Changa, \"Changa Fallback\", sans-serif"
+      ],
+      "headingSize": "54px"
+    },
+    {
+      "path": "/ar/projects/mekdam",
+      "width": 360,
+      "scrollWidth": 360,
+      "fonts": [
+        "Changa, \"Changa Fallback\", sans-serif"
+      ],
+      "headingSize": "32px"
+    },
+    {
+      "path": "/ar/projects/mekdam",
+      "width": 390,
+      "scrollWidth": 390,
+      "fonts": [
+        "Changa, \"Changa Fallback\", sans-serif"
+      ],
+      "headingSize": "32px"
+    },
+    {
+      "path": "/ar/projects/mekdam",
+      "width": 768,
+      "scrollWidth": 768,
+      "fonts": [
+        "Changa, \"Changa Fallback\", sans-serif"
+      ],
+      "headingSize": "32.256px"
+    },
+    {
+      "path": "/ar/projects/mekdam",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "fonts": [
+        "Changa, \"Changa Fallback\", sans-serif"
+      ],
+      "headingSize": "54px"
+    },
+    {
+      "path": "/ar/projects/ostad",
+      "width": 360,
+      "scrollWidth": 360,
+      "fonts": [
+        "Changa, \"Changa Fallback\", sans-serif"
+      ],
+      "headingSize": "32px"
+    },
+    {
+      "path": "/ar/projects/ostad",
+      "width": 390,
+      "scrollWidth": 390,
+      "fonts": [
+        "Changa, \"Changa Fallback\", sans-serif"
+      ],
+      "headingSize": "32px"
+    },
+    {
+      "path": "/ar/projects/ostad",
+      "width": 768,
+      "scrollWidth": 768,
+      "fonts": [
+        "Changa, \"Changa Fallback\", sans-serif"
+      ],
+      "headingSize": "32.256px"
+    },
+    {
+      "path": "/ar/projects/ostad",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "fonts": [
+        "Changa, \"Changa Fallback\", sans-serif"
+      ],
+      "headingSize": "54px"
+    }
+  ],
+  "headline": {
+    "font": "Changa, \"Changa Fallback\", sans-serif",
+    "accentFont": "Changa, \"Changa Fallback\", sans-serif",
+    "weight": "600",
+    "accentWeight": "600"
+  }
+}

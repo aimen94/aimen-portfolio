@@ -1,0 +1,140 @@
+{
+  "pages": [
+    {
+      "path": "/en",
+      "viewports": [
+        390,
+        1440
+      ],
+      "images": "decoded",
+      "languageSwitch": "passed"
+    },
+    {
+      "path": "/ar",
+      "viewports": [
+        390,
+        1440
+      ],
+      "images": "decoded",
+      "languageSwitch": "passed"
+    },
+    {
+      "path": "/en/expertise/flutter-mobile-development",
+      "viewports": [
+        390,
+        1440
+      ],
+      "images": "decoded",
+      "languageSwitch": "passed"
+    },
+    {
+      "path": "/ar/expertise/flutter-mobile-development",
+      "viewports": [
+        390,
+        1440
+      ],
+      "images": "decoded",
+      "languageSwitch": "passed"
+    },
+    {
+      "path": "/en/expertise/supabase-api-integration",
+      "viewports": [
+        390,
+        1440
+      ],
+      "images": "decoded",
+      "languageSwitch": "passed"
+    },
+    {
+      "path": "/ar/expertise/supabase-api-integration",
+      "viewports": [
+        390,
+        1440
+      ],
+      "images": "decoded",
+      "languageSwitch": "passed"
+    },
+    {
+      "path": "/en/expertise/flutter-ui-implementation",
+      "viewports": [
+        390,
+        1440
+      ],
+      "images": "decoded",
+      "languageSwitch": "passed"
+    },
+    {
+      "path": "/ar/expertise/flutter-ui-implementation",
+      "viewports": [
+        390,
+        1440
+      ],
+      "images": "decoded",
+      "languageSwitch": "passed"
+    },
+    {
+      "path": "/en/projects/salahly",
+      "viewports": [
+        390,
+        1440
+      ],
+      "images": "decoded",
+      "languageSwitch": "passed"
+    },
+    {
+      "path": "/ar/projects/salahly",
+      "viewports": [
+        390,
+        1440
+      ],
+      "images": "decoded",
+      "languageSwitch": "passed"
+    },
+    {
+      "path": "/en/projects/mekdam",
+      "viewports": [
+        390,
+        1440
+      ],
+      "images": "decoded",
+      "languageSwitch": "passed"
+    },
+    {
+      "path": "/ar/projects/mekdam",
+      "viewports": [
+        390,
+        1440
+      ],
+      "images": "decoded",
+      "languageSwitch": "passed"
+    },
+    {
+      "path": "/en/projects/ostad",
+      "viewports": [
+        390,
+        1440
+      ],
+      "images": "decoded",
+      "languageSwitch": "passed"
+    },
+    {
+      "path": "/ar/projects/ostad",
+      "viewports": [
+        390,
+        1440
+      ],
+      "images": "decoded",
+      "languageSwitch": "passed"
+    }
+  ],
+  "errors": [],
+  "interactions": [
+    "EN/AR switching on 14 pages",
+    "Mobile menus",
+    "Screenshot selector",
+    "Lightbox/Escape",
+    "Empty/invalid-email form validation",
+    "Dark theme"
+  ],
+  "dataSource": "Repository defaults; no live CMS credentials"
+}

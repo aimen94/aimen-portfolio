@@ -1,0 +1,125 @@
+{
+  "method": "Local production; Chromium mobile 390x844, 4x CPU slowdown, 40ms latency, 2MB/s download, cache disabled, three runs, no scrolling; CLS observed until 1.5s after network idle. Not Lighthouse/CrUX; INP not measured.",
+  "rows": [
+    {
+      "path": "/en",
+      "run": 1,
+      "lcpMs": 212,
+      "cls": 0,
+      "ttfbMs": 8,
+      "transferredBytes": 260777,
+      "jsBytes": 118803,
+      "imageBytes": 0
+    },
+    {
+      "path": "/en",
+      "run": 2,
+      "lcpMs": 208,
+      "cls": 0,
+      "ttfbMs": 7,
+      "transferredBytes": 260777,
+      "jsBytes": 118803,
+      "imageBytes": 0
+    },
+    {
+      "path": "/en",
+      "run": 3,
+      "lcpMs": 212,
+      "cls": 0,
+      "ttfbMs": 7,
+      "transferredBytes": 260777,
+      "jsBytes": 118803,
+      "imageBytes": 0
+    },
+    {
+      "path": "/ar",
+      "run": 1,
+      "lcpMs": 232,
+      "cls": 0,
+      "ttfbMs": 8,
+      "transferredBytes": 260777,
+      "jsBytes": 118803,
+      "imageBytes": 0
+    },
+    {
+      "path": "/ar",
+      "run": 2,
+      "lcpMs": 232,
+      "cls": 0,
+      "ttfbMs": 9,
+      "transferredBytes": 260777,
+      "jsBytes": 118803,
+      "imageBytes": 0
+    },
+    {
+      "path": "/ar",
+      "run": 3,
+      "lcpMs": 236,
+      "cls": 0,
+      "ttfbMs": 8,
+      "transferredBytes": 260777,
+      "jsBytes": 118803,
+      "imageBytes": 0
+    },
+    {
+      "path": "/en/projects/salahly",
+      "run": 1,
+      "lcpMs": 216,
+      "cls": 0,
+      "ttfbMs": 5,
+      "transferredBytes": 301844,
+      "jsBytes": 116175,
+      "imageBytes": 42964
+    },
+    {
+      "path": "/en/projects/salahly",
+      "run": 2,
+      "lcpMs": 216,
+      "cls": 0,
+      "ttfbMs": 5,
+      "transferredBytes": 301844,
+      "jsBytes": 116175,
+      "imageBytes": 42964
+    },
+    {
+      "path": "/en/projects/salahly",
+      "run": 3,
+      "lcpMs": 220,
+      "cls": 0,
+      "ttfbMs": 5,
+      "transferredBytes": 301844,
+      "jsBytes": 116175,
+      "imageBytes": 42964
+    },
+    {
+      "path": "/ar/projects/salahly",
+      "run": 1,
+      "lcpMs": 212,
+      "cls": 0,
+      "ttfbMs": 5,
+      "transferredBytes": 301845,
+      "jsBytes": 116175,
+      "imageBytes": 42964
+    },
+    {
+      "path": "/ar/projects/salahly",
+      "run": 2,
+      "lcpMs": 204,
+      "cls": 0,
+      "ttfbMs": 5,
+      "transferredBytes": 301845,
+      "jsBytes": 116175,
+      "imageBytes": 42964
+    },
+    {
+      "path": "/ar/projects/salahly",
+      "run": 3,
+      "lcpMs": 200,
+      "cls": 0,
+      "ttfbMs": 5,
+      "transferredBytes": 301845,
+      "jsBytes": 116175,
+      "imageBytes": 42964
+    }
+  ]
+}

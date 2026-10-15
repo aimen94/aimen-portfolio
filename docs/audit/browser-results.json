@@ -1,0 +1,78 @@
+{
+  "pages": [
+    {
+      "url": "/ar",
+      "title": "أيمن الوهاب | مهندس برمجيات ومطور تطبيقات Flutter في ليبيا",
+      "schemaTypes": [
+        "Person",
+        "WebSite"
+      ],
+      "responsive": "390px and 1440px; no horizontal overflow"
+    },
+    {
+      "url": "/ar/projects/salahly",
+      "title": "صلّحلي (Salahly) | تطبيق صيانة السيارات — أيمن الوهاب",
+      "schemaTypes": [
+        "CreativeWork"
+      ],
+      "responsive": "390px and 1440px; no horizontal overflow"
+    },
+    {
+      "url": "/ar/projects/mekdam",
+      "title": "Mekdam | منصة مشتريات الصيدليات — أيمن الوهاب",
+      "schemaTypes": [
+        "CreativeWork"
+      ],
+      "responsive": "390px and 1440px; no horizontal overflow"
+    },
+    {
+      "url": "/ar/projects/ostad",
+      "title": "Ostad | تطبيق تعليمي للطلاب — أيمن الوهاب",
+      "schemaTypes": [
+        "CreativeWork"
+      ],
+      "responsive": "390px and 1440px; no horizontal overflow"
+    },
+    {
+      "url": "/en",
+      "title": "Aimen Elwahab | Software Engineer & Flutter Developer in Libya",
+      "schemaTypes": [
+        "Person",
+        "WebSite"
+      ],
+      "responsive": "390px and 1440px; no horizontal overflow"
+    },
+    {
+      "url": "/en/projects/salahly",
+      "title": "Salahly | Vehicle Maintenance App — Aimen Elwahab",
+      "schemaTypes": [
+        "CreativeWork"
+      ],
+      "responsive": "390px and 1440px; no horizontal overflow"
+    },
+    {
+      "url": "/en/projects/mekdam",
+      "title": "Mekdam | B2B Pharmacy App — Aimen Elwahab",
+      "schemaTypes": [
+        "CreativeWork"
+      ],
+      "responsive": "390px and 1440px; no horizontal overflow"
+    },
+    {
+      "url": "/en/projects/ostad",
+      "title": "Ostad | Student Learning App — Aimen Elwahab",
+      "schemaTypes": [
+        "CreativeWork"
+      ],
+      "responsive": "390px and 1440px; no horizontal overflow"
+    }
+  ],
+  "consoleErrors": [],
+  "interactions": [
+    "Language switching on all 8 pages",
+    "Arabic mobile menu",
+    "Screenshot dialog and Escape",
+    "Arabic empty-form and email validation"
+  ],
+  "note": "Local production server using repository defaults; no live CMS credentials."
+}
