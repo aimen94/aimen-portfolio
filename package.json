@@ -9,6 +9,7 @@
     "typecheck": "tsc --noEmit",
     "audit": "node scripts/audit.mjs",
     "audit:browser": "node scripts/browser-audit.mjs",
+    "audit:responsive": "node scripts/responsive-audit.mjs",
     "audit:performance": "node scripts/measure-performance.cjs"
   },
   "dependencies": {

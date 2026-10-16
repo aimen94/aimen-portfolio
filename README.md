@@ -162,10 +162,13 @@ Browser and performance scripts require Playwright with Chromium available separ
 
 ```bash
 npm run audit:browser -- http://localhost:3000
+npm run audit:responsive -- http://localhost:3000
 npm run audit:performance -- http://localhost:3000 docs/seo/performance-local.json
 ```
 
 Set `PLAYWRIGHT_MODULE` to the installed Playwright module path if it is outside the project. Browser checks cover both languages, responsive layouts, image loading, language switching, menus, themes, and form validation.
+
+The responsive audit checks 14 screen widths from 320 to 2560 pixels, including tablet and phone landscape layouts. It also verifies menu coverage, scrolling, keyboard focus, closing behavior, and resizing in both languages and themes. Set `BROWSER_ENGINE=webkit` to run it with Playwright's installed WebKit browser.
 
 ## Deployment
 
